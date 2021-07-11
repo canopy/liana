@@ -1,2 +1,2 @@
 # liana
-Integrate your personal website into your browser
+Integrate your personal website into your web browser
