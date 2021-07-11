@@ -1,2 +1,2 @@
 # liana
-Interface your personal website from your web browser
+ Use your personal website from your browser toolbar
